@@ -27,3 +27,15 @@
 - **Cocos2d-x**
 - **Unity**
 - Flutter
+
+# OS with work experience or hobby
+- Windows
+- Linux
+- UNIX
+- Ubuntu
+- Mac OS X
+- iOS
+- Android/
+- Chrome OS
+- Firefox OS
+- Windows Phone
