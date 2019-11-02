@@ -29,13 +29,13 @@
 - Flutter
 
 # OS with work experience or hobby
-- Windows
+- **Windows**
 - Linux
 - UNIX
 - Ubuntu
-- Mac OS X
-- iOS
-- Android/
+- **macOS**
+- **iOS**
+- **Android**
 - Chrome OS
-- Firefox OS
+- **Firefox OS**
 - Windows Phone
