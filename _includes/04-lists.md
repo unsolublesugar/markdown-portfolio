@@ -1,5 +1,5 @@
-- :video_game:Game
-- :wave:Anime
-- :computer:Gadget
-- :book:Reading
-- :movie_camera:Watching Movies
+- Video Game :video_game:
+- Anime :wave:
+- Gadget :computer:
+- Reading :book:
+- Watching Movies :movie_camera:
