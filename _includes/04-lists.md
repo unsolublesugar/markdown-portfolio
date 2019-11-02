@@ -1,5 +1,6 @@
-- Video Game :video_game:
-- Anime :wave:
-- Gadget :computer:
-- Reading :book:
-- Watching Movies :movie_camera:
+# Hobby
+- Video Game
+- Anime
+- Gadget
+- Reading
+- Watching Movies
