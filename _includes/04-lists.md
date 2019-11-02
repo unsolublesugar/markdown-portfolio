@@ -1,1 +1,5 @@
-Game, Anime, Gadget
+- :video_game:Game
+- :wave:Anime
+- :computer:Gadget
+- :book:Reading
+- :movie_camera:Watching Movies
