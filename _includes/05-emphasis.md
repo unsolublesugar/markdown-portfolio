@@ -3,9 +3,11 @@
 - **C++**
 - **C#**
 - Objective-C
+- Swift
 - Ruby
 - **PHP**
 - Java
+- Kotlin
 - JavaScript
 - Node.js
 - Google Apps Script
