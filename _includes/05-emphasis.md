@@ -1,1 +1,27 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Programming Languages
+- C
+- **C++**
+- **C#**
+- Objective-C
+- Ruby
+- **PHP**
+- Java
+- JavaScript
+- Node.js
+- Google Apps Script
+- VBScript
+- VBA
+- VB.NET
+- ASP.NET
+- bash
+- Dart
+- HTML
+- CSS
+
+# Framework
+- CodeIgniter
+- Alloy
+- Ruby on Rails
+- **Cocos2d-x**
+- **Unity**
+- Flutter
