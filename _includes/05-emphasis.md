@@ -44,6 +44,9 @@
 - TeraPad
 - vi Editor
 
+# Browser
+- **Google Chrome**
+
 # OS with work experience or hobby
 - **Windows**
 - Linux
