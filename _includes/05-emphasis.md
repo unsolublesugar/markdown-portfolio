@@ -28,6 +28,22 @@
 - **Unity**
 - Flutter
 
+# IDE/Editor
+
+- **VS Code**
+- Visual Studio
+- Eclipse
+- Titanium Mobile
+- **Unity Editor**
+- Xcode
+- Android Studio
+- MonoDevelop
+- **Sublime Text**
+- CotEditor
+- SAKURA Editor
+- TeraPad
+- vi Editor
+
 # OS with work experience or hobby
 - **Windows**
 - Linux
