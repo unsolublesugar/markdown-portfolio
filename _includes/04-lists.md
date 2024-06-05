@@ -4,3 +4,5 @@
 - Gadget
 - Reading
 - Watching Movies
+- 3D Modeling
+- MikuMikuDance

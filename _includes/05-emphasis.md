@@ -9,6 +9,7 @@
 - Java
 - Kotlin
 - JavaScript
+- TypeScript
 - Node.js
 - Google Apps Script
 - VBScript
@@ -17,6 +18,8 @@
 - ASP.NET
 - bash
 - Dart
+- Solidity
+- Python
 - HTML
 - CSS
 
@@ -27,6 +30,10 @@
 - **Cocos2d-x**
 - **Unity**
 - Flutter
+- Electron
+- React
+- Next.js
+- Tailwind CSS
 
 # IDE/Editor
 
@@ -38,14 +45,14 @@
 - Xcode
 - Android Studio
 - MonoDevelop
-- **Sublime Text**
+- Sublime Text
 - CotEditor
 - SAKURA Editor
 - TeraPad
 - vi Editor
 
 # Browser
-- **Google Chrome**
+- Google Chrome
 
 # OS with work experience or hobby
 - **Windows**
